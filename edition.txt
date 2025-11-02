@@ -3,3 +3,4 @@ second edition
 third edition 
 hotfix teams solution
 New function added
+team upgraded
